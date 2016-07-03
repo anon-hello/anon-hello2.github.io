@@ -2,8 +2,8 @@
 title: PHOTORAMA
 email: ""
 description: "Photo Journal"
-url: "http://anon-hello.github.io/photography"
-baseurl: /photography
+url: "http://anon-hello.github.io/"
+baseurl: /anon-hello.github.io
 instagram_username: ""
 github_username:  ""
 deviantart_username: ""
@@ -31,7 +31,7 @@ comments :
 
 # Internal nav
 nav:
- journal: "baseurl/journal/"
+ journal: "/journal/"
  gallery: "baseurl/gallery/"
  about: "baseurl/about/"
 
